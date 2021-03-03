@@ -29,7 +29,6 @@ def send_message(client_socket):
 
 def event_loop():
     while True:
-
         events = selector.select()  #(key, events)
 
         # SelectorKey

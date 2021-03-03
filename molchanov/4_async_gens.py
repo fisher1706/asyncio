@@ -33,6 +33,15 @@ def client(client_socket):
 
 def event_loop():
     while any([tasks, to_read, to_write]):
+
+        x = to_read
+        y = to_write
+        z = tasks
+
+        print('to_read:', x)
+        print('to_write:', y)
+        print('tasks:', z)
+
         while not tasks:
             ready_to_read, ready_to_write, _ = select(to_read, to_write, [])
             for sock in ready_to_read:
