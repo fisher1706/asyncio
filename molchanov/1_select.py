@@ -1,7 +1,7 @@
 import socket
 from select import select
 
-to_monitor =[]
+to_monitor = []
 
 # .fileno()
 
@@ -10,10 +10,13 @@ server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 server_socket.bind(('localhost', 5000))
 server_socket.listen()
 
+
 def accept_connection(server_socket):
     client_socket, addr = server_socket.accept()
     print('Connection from ', addr, 'client_socket', client_socket)
+
     to_monitor.append(client_socket)
+
 
 def send_message(client_socket):
     print('Before .recv()')
@@ -23,6 +26,7 @@ def send_message(client_socket):
         client_socket.send(response)
     else:
         client_socket.close()
+
 
 def event_loop():
     while True:
@@ -37,7 +41,3 @@ def event_loop():
 if __name__ == '__main__':
     to_monitor.append(server_socket)
     event_loop()
-
-
-
-

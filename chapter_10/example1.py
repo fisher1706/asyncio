@@ -1,5 +1,6 @@
 import time
 
+
 def count_down(name, delay):
     indents = (ord(name) - ord('A')) * '\t'
     n = 3
@@ -11,7 +12,8 @@ def count_down(name, delay):
         print('-' * 40)
         print('%.4f \t%s%s = %i' % (duration, indents, name, n))
 
-        n -=1
+        n -= 1
+
 
 start = time.perf_counter()
 

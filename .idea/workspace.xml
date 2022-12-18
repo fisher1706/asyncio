@@ -1,115 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8b1f53e-0e1f-4855-92a6-496040dce08c" name="Default" comment="">
+    <list default="true" id="f6296822-23af-4a01-86ba-13c41c861a82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles-0.8.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles-0.8.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles-0.8.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles-0.8.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles-0.8.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/ospath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/tempfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/tempfile/temptypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/threadpool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/threadpool/binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/threadpool/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/lib/python3.8/site-packages/aiofiles/threadpool/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/demo/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/demo/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/demo/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/demo/views/frontend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example_1/entry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_9/main_0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/molchanov/8_async_with_gen_very_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/molchanov/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yield_from/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yield_from/test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yield_from/test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yield_from/test_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/asyncio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/asyncio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_10/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_10/example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_10/example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10/example5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_10/example5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10/example6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_10/example6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/example_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11/example_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/example_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11/example_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/example_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11/example_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/example_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11/example_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11/example_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11/example_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_12/example_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_13/example1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_13/example2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_13/example3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_14/example1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_14/example2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_14/example3_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_14/example3_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_18/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_18/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_18/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_18/example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_18/example5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_18/example5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/env/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/main_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/main_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/main_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/main_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/main_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/main_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/main_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/main_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/main_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/main_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_9/main_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_9/main_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/1_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/1_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/2_selectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/2_selectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/3_generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/3_generators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/4_async_gens.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/4_async_gens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/5_coroutines.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/5_coroutines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/6_del.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/6_del.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/7_asyncio_async_await.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/7_asyncio_async_await.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/8_async.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/8_async.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/8_asyncio.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/8_asyncio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/molchanov/original.py" beforeDir="false" afterPath="$PROJECT_DIR$/molchanov/original.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/example_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/example_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/example_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/example_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/example_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/example_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/f1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_1/f2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_2/tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_2/tcp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_2/tcp_server_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_2/tcp_server_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3/example1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3/example2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3/example3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3/example4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_3/example5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_4/example_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_4/example_1.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/asyncio$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1601305593667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site_4" />
-    <SUITE FILE_PATH="coverage/asyncio$example.coverage" NAME="example Coverage Results" MODIFIED="1602761106205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
-    <SUITE FILE_PATH="coverage/asyncio$example4.coverage" NAME="example4 Coverage Results" MODIFIED="1586508177413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
-    <SUITE FILE_PATH="coverage/asyncio$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1590156425684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_13" />
-    <SUITE FILE_PATH="coverage/asyncio$example5__1_.coverage" NAME="example5 (1) Coverage Results" MODIFIED="1600977584844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site_3" />
-    <SUITE FILE_PATH="coverage/asyncio$lesson_9.coverage" NAME="lesson_9 Coverage Results" MODIFIED="1600767970270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/asyncio$example_2.coverage" NAME="example_2 Coverage Results" MODIFIED="1590150018140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site" />
-    <SUITE FILE_PATH="coverage/asyncio$example_5.coverage" NAME="example_5 Coverage Results" MODIFIED="1590154167908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site" />
-    <SUITE FILE_PATH="coverage/asyncio$example1__1_.coverage" NAME="example1 (1) Coverage Results" MODIFIED="1599119753178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter18" />
-    <SUITE FILE_PATH="coverage/asyncio$tcp_server_class.coverage" NAME="tcp_server_class Coverage Results" MODIFIED="1601269123239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site_2" />
-    <SUITE FILE_PATH="coverage/asyncio$example6.coverage" NAME="example6 Coverage Results" MODIFIED="1586508829273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
-    <SUITE FILE_PATH="coverage/asyncio$example_3.coverage" NAME="example_3 Coverage Results" MODIFIED="1590150255244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site" />
-    <SUITE FILE_PATH="coverage/asyncio$example_6.coverage" NAME="example_6 Coverage Results" MODIFIED="1590154259367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site" />
-    <SUITE FILE_PATH="coverage/asyncio$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1599119784253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter18" />
-    <SUITE FILE_PATH="coverage/asyncio$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1601269448590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site_2" />
-    <SUITE FILE_PATH="coverage/asyncio$example_4.coverage" NAME="example_4 Coverage Results" MODIFIED="1590151283482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/site" />
-    <SUITE FILE_PATH="coverage/asyncio$example5.coverage" NAME="example5 Coverage Results" MODIFIED="1600673589929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter18" />
-    <SUITE FILE_PATH="coverage/asyncio$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1590389277705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_generators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/3_generators.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="4_async_gens.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/4_async_gens.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5_coroutines.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/5_coroutines.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="6_del.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/6_del.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="7_asyncio_async_await.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/7_asyncio_async_await.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="8_async.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/8_async.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="8_asyncio.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/8_asyncio.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="original.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/molchanov/original.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pip_requires,txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pip_requires,txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,126 +114,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/chapter_11/example_3.py" />
-        <option value="$PROJECT_DIR$/chapter_11/example_4.py" />
-        <option value="$PROJECT_DIR$/chapter_11/example_5.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_2.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_1.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_3.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_4.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_5.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_6.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_7.py" />
-        <option value="$PROJECT_DIR$/chapter_12/example_8.py" />
-        <option value="$PROJECT_DIR$/chapter_13/example1.py" />
-        <option value="$PROJECT_DIR$/site/example_1.py" />
-        <option value="$PROJECT_DIR$/site/example_2.py" />
-        <option value="$PROJECT_DIR$/site/example_3.py" />
-        <option value="$PROJECT_DIR$/site/example_4.py" />
-        <option value="$PROJECT_DIR$/site/example_5.py" />
-        <option value="$PROJECT_DIR$/site/example_6.py" />
-        <option value="$PROJECT_DIR$/chapter_13/example2.py" />
-        <option value="$PROJECT_DIR$/chapter_13/example3.py" />
-        <option value="$PROJECT_DIR$/chapter_14/example1.py" />
-        <option value="$PROJECT_DIR$/chapter_14/example2.py" />
-        <option value="$PROJECT_DIR$/chapter_14/example3_1.py" />
-        <option value="$PROJECT_DIR$/chapter_14/example3_2.py" />
-        <option value="$PROJECT_DIR$/chapter18/example1.py" />
-        <option value="$PROJECT_DIR$/chapter18/examole2.py" />
-        <option value="$PROJECT_DIR$/chapter18/example3.py" />
-        <option value="$PROJECT_DIR$/chapter18/example5.py" />
-        <option value="$PROJECT_DIR$/lesson_9.py" />
-        <option value="$PROJECT_DIR$/lesson_9/main_2.py" />
-        <option value="$PROJECT_DIR$/lesson_9/main_3.py" />
-        <option value="$PROJECT_DIR$/lesson_9/main_4.py" />
-        <option value="$PROJECT_DIR$/lesson_9/main_5.py" />
-        <option value="$PROJECT_DIR$/lesson_9/main_6.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/site_2/consumer.py" />
-        <option value="$PROJECT_DIR$/chapter_18/example_6.py" />
-        <option value="$PROJECT_DIR$/molchanov/1_select.py" />
-        <option value="$PROJECT_DIR$/chapter_18/example6.py" />
-        <option value="$PROJECT_DIR$/site_3/__init__.py" />
-        <option value="$PROJECT_DIR$/site_3/example1.py" />
-        <option value="$PROJECT_DIR$/site_3/example2.py" />
-        <option value="$PROJECT_DIR$/site_3/example_3.py" />
-        <option value="$PROJECT_DIR$/site_3/example4.py" />
-        <option value="$PROJECT_DIR$/site_3/example5.py" />
-        <option value="$PROJECT_DIR$/site_2/__init__.py" />
-        <option value="$PROJECT_DIR$/site_2/tcp_server.py" />
-        <option value="$PROJECT_DIR$/site_2/tcp_server_class.py" />
-        <option value="$PROJECT_DIR$/site_4/__init__.py" />
-        <option value="$PROJECT_DIR$/site_4/example_1.py" />
-        <option value="$PROJECT_DIR$/redis/example.py" />
-      </list>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
-    <option name="width" value="1926" />
-    <option name="height" value="1043" />
-  </component>
+  <component name="ProjectId" id="26nG8kQ4tWI0oGc4SIgD9tmc6pd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="asyncio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="asyncio" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "/home/oleg/PycharmProjects/server",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/molchanov" />
-      <recent name="$PROJECT_DIR$/lesson_9" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.example">
-    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_1">
+    <configuration name="example3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="asyncio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,18 +150,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/example3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="example5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="asyncio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,18 +172,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/site_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/site_3/example5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/example5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="example_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="asyncio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,18 +194,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/site_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/site_4/example_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_10/example6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="tcp_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="asyncio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,18 +216,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/site_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/site_2/tcp_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_11/example_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="tcp_server_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="asyncio" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,400 +238,107 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/site_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/site_2/tcp_server_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example_2/test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.example5 (1)" />
-      <item itemvalue="Python.tcp_server_class" />
-      <item itemvalue="Python.tcp_server" />
-      <item itemvalue="Python.example_1" />
-      <item itemvalue="Python.example" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.example" />
+        <item itemvalue="Python.test_1" />
         <item itemvalue="Python.example_1" />
-        <item itemvalue="Python.tcp_server" />
-        <item itemvalue="Python.tcp_server_class" />
-        <item itemvalue="Python.example5 (1)" />
+        <item itemvalue="Python.example6" />
+        <item itemvalue="Python.example5" />
+        <item itemvalue="Python.example3" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d8b1f53e-0e1f-4855-92a6-496040dce08c" name="Default" comment="" />
-      <created>1586369910931</created>
+      <changelist id="f6296822-23af-4a01-86ba-13c41c861a82" name="Changes" comment="" />
+      <created>1648051779951</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586369910931</updated>
+      <updated>1648051779951</updated>
+      <workItem from="1648051782702" duration="13724000" />
+      <workItem from="1648535808512" duration="623000" />
+      <workItem from="1648620123310" duration="9222000" />
+      <workItem from="1648795360829" duration="10072000" />
+      <workItem from="1649479692932" duration="986000" />
+      <workItem from="1650207917122" duration="15878000" />
+      <workItem from="1650538803900" duration="14568000" />
+      <workItem from="1650971036677" duration="19352000" />
+      <workItem from="1652154478056" duration="1129000" />
+      <workItem from="1652170120657" duration="4270000" />
+      <workItem from="1652534831320" duration="3353000" />
+      <workItem from="1652851694960" duration="728000" />
+      <workItem from="1653651897340" duration="715000" />
+      <workItem from="1653652633175" duration="543000" />
+      <workItem from="1653654957279" duration="19000" />
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="1926" height="1043" extended-state="6" />
-    <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32824427" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5037353" side_tool="true" weight="0.3487882" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" weight="0.70179135" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32715377" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969563" weight="0.3053435" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" sideWeight="0.49306297" visible="true" weight="0.38604143" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969419" visible="true" weight="0.27635783" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="4" weight="0.19275825" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32982844" />
-      <window_info id="Structure" order="1" sideWeight="0.5030581" side_tool="true" weight="0.34098187" />
-      <window_info id="Favorites" order="2" sideWeight="0.5030581" side_tool="true" weight="0.34098187" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="13" sideWeight="0.49626467" visible="true" weight="0.3373102" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/site_4/example_1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_18/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="163" column="8" selection-start-line="163" selection-start-column="8" selection-end-line="163" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1405363741/_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="813" column="8" selection-start-line="813" selection-start-column="8" selection-end-line="813" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" lean-forward="true" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson_9/main_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="118" column="28" lean-forward="true" selection-end-line="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt" />
-    <entry file="file://$PROJECT_DIR$/site_1/f2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_1/f1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_1/example_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="15" lean-forward="true" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_18/example5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_2/consumer.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_18/example3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="64" column="29" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_18/example6.py" />
-    <entry file="file:///usr/lib/python3.8/selectors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.8/asyncio/streams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="360" column="8" selection-start-line="360" selection-start-column="8" selection-end-line="360" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="94" selection-start-column="94" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_1/example_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_3/example5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_3/example4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_3/example3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_3/example2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_2/tcp_server_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1405363741/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7560">
-          <caret line="504" column="4" selection-start-line="504" selection-start-column="4" selection-end-line="504" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_4/example_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.8/asyncio/windows_events.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="439" column="8" selection-start-line="439" selection-start-column="8" selection-end-line="439" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/redis/example.py" />
-    <entry file="file://$PROJECT_DIR$/site_1/example_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_1/example_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_10/example1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_10/example2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_2/tcp_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site_3/example1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/1_select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/2_selectors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/3_generators.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/4_async_gens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/5_coroutines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/6_del.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/7_asyncio_async_await.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/8_async.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/8_asyncio.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molchanov/original.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pip_requires,txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/asyncio$entry.coverage" NAME="entry Coverage Results" MODIFIED="1650218667980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_1" />
+    <SUITE FILE_PATH="coverage/asyncio$example1.coverage" NAME="example1 Coverage Results" MODIFIED="1652548547759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/asyncio$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1651053185327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yield_from" />
+    <SUITE FILE_PATH="coverage/asyncio$8_asyncio.coverage" NAME="8_asyncio Coverage Results" MODIFIED="1650212257234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$main_1.coverage" NAME="main_1 Coverage Results" MODIFIED="1651057975120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_9" />
+    <SUITE FILE_PATH="coverage/asyncio$example5.coverage" NAME="example5 Coverage Results" MODIFIED="1652553216881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/asyncio$8_async_with_gen_very_basic.coverage" NAME="8_async_with_gen_very_basic Coverage Results" MODIFIED="1648806859744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$3_generators.coverage" NAME="3_generators Coverage Results" MODIFIED="1648360564775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$main_2.coverage" NAME="main_2 Coverage Results" MODIFIED="1651056535903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_9" />
+    <SUITE FILE_PATH="coverage/asyncio$test.coverage" NAME="test Coverage Results" MODIFIED="1651050537772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1653653011546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_2" />
+    <SUITE FILE_PATH="coverage/asyncio$8_async.coverage" NAME="8_async Coverage Results" MODIFIED="1648804222607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1653652062097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11" />
+    <SUITE FILE_PATH="coverage/asyncio$5_coroutines.coverage" NAME="5_coroutines Coverage Results" MODIFIED="1651049508898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$example3.coverage" NAME="example3 Coverage Results" MODIFIED="1652551812874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/asyncio$main_3.coverage" NAME="main_3 Coverage Results" MODIFIED="1651056565449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_9" />
+    <SUITE FILE_PATH="coverage/asyncio$asyncio_scraper.coverage" NAME="asyncio_scraper Coverage Results" MODIFIED="1650212817781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_1" />
+    <SUITE FILE_PATH="coverage/asyncio$scraper.coverage" NAME="scraper Coverage Results" MODIFIED="1650213007131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example_1" />
+    <SUITE FILE_PATH="coverage/asyncio$example2.coverage" NAME="example2 Coverage Results" MODIFIED="1652549033532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/asyncio$7_asyncio_async_await.coverage" NAME="7_asyncio_async_await Coverage Results" MODIFIED="1648803155622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/molchanov" />
+    <SUITE FILE_PATH="coverage/asyncio$test_3.coverage" NAME="test_3 Coverage Results" MODIFIED="1651053995014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yield_from" />
+    <SUITE FILE_PATH="coverage/asyncio$example6.coverage" NAME="example6 Coverage Results" MODIFIED="1652553603765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10" />
+    <SUITE FILE_PATH="coverage/asyncio$main_0.coverage" NAME="main_0 Coverage Results" MODIFIED="1650870556344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_9" />
   </component>
 </project>

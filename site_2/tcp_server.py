@@ -2,6 +2,7 @@ import asyncio
 import logging
 import concurrent.futures
 
+
 @asyncio.coroutine
 def handle_connection(reader, writer):
     peername = writer.get_extra_info('peername')
@@ -18,6 +19,7 @@ def handle_connection(reader, writer):
             logging.info('Connection from {} closed by timeout'.format(peername))
             break
     writer.close()
+
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()

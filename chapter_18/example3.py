@@ -2,6 +2,7 @@ import socket
 from operator import mul
 from functools import reduce
 
+
 # Main event loop
 def reactor(host, port):
     sock = socket.socket()
@@ -16,6 +17,7 @@ def reactor(host, port):
 
     finally:
         sock.close()
+
 
 def process_request(conn, cli_address):
     file = conn.makefile()

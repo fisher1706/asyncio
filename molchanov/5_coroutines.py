@@ -1,4 +1,5 @@
 
+
 def coroutine(func):
     def inner(*args, **kwargs):
         g = func(*args, **kwargs)
@@ -6,14 +7,17 @@ def coroutine(func):
         return g
     return inner
 
-@coroutine
+
+# @coroutine
 def subgen():
     x = 'Ready to accept message'
     message = yield x
     print('Subgen received:', message)
 
+
 class BlaBlaException(Exception):
     pass
+
 
 @coroutine
 def average():
@@ -36,3 +40,10 @@ def average():
             average = round(sum/count, 2)
     return average
 
+
+if __name__ == '__main__':
+    g = subgen()
+    # next(g)
+
+    g.send(None)
+    g.send('Ok')

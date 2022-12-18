@@ -13,6 +13,7 @@ logger = logging.getLogger('main')
 BIND_ADDRESS = ('localhost', 8999)
 BACKLOG = 5
 
+
 class Handler:
     def __init__(self, sock, clinet_ip, client_port):
         self.log('Start to process request from %s:%d' % (clinet_ip, client_port))
@@ -63,6 +64,7 @@ class Handler:
         else:
             # удаляем часть буфера, которая уже отправлена
             self.out_buffer = self.out_buffer[n:]
+
 
 class Listener:
     def __init__(self, sock):
@@ -134,6 +136,7 @@ def server_forever():
                 to_delete.append(fileno)
         for fileno in to_delete:
             del socket_map[fileno]
+
 
 def main():
     # настраиваем логгинг

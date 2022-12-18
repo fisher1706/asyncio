@@ -2,6 +2,7 @@ import asyncio
 import logging
 import concurrent.futures
 
+
 class EchoServer(object):
     def __init__(self, host, port, loop=None):
         self._loop = loop or asyncio.get_event_loop()
@@ -28,6 +29,7 @@ class EchoServer(object):
                 writer.write(data)
             except concurrent.futures.TimeoutError:
                 break
+
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)

@@ -1,5 +1,6 @@
 import socket
 
+
 # Main event loop
 def reactor(host, port):
     sock = socket.socket()
@@ -14,6 +15,7 @@ def reactor(host, port):
 
     finally:
         sock.close()
+
 
 def process_request(conn, cli_address):
     file = conn.makefile()
@@ -35,6 +37,7 @@ def process_request(conn, cli_address):
         print(f'{cli_address} quit')
         file.close()
         conn.close()
+
 
 if __name__ == '__main__':
     reactor('localhost', 8080)

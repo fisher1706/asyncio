@@ -1,5 +1,6 @@
 import types
 
+
 @types.coroutine
 def read_data():
     def inner(n):
@@ -12,6 +13,7 @@ def read_data():
     data = yield inner
     return data
 
+
 async def process():
     try:
         while True:
@@ -23,10 +25,12 @@ async def process():
 gen = process()
 callback = gen.send(None)
 
+
 def main():
     for i in range(5):
         print(f'Printing from main(): {i}')
         callback(i)
+
 
 if __name__ == '__main__':
     main()

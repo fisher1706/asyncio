@@ -1,0 +1,1 @@
+# http://onreader.mdl.ru/MasteringConcurrencyInPython/content/Ch10.html

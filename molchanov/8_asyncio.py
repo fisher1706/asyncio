@@ -8,10 +8,12 @@ def wrire_image(data):
     with open(filename, 'wb') as file:
         file.write(data)
 
+
 async def fetch_content(url, session):
-    async with session.get(url, allow_reirects=True) as responce:
+    async with session.get(url, allow_redirects=True) as responce:
         data = await responce.read()
         wrire_image(data)
+
 
 async def main():
     url = 'https://loremflickr.com/320/240'

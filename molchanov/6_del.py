@@ -6,8 +6,10 @@ def coroutine(func):
         return g
     return inner
 
+
 class BlaBlaException(Exception):
     pass
+
 
 # @coroutine
 def subgen():
@@ -20,6 +22,7 @@ def subgen():
         else:
             print('.........', message)
     return 'Returned from subgen()'
+
 
 @coroutine
 def delegator(g):

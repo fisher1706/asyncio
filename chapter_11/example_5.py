@@ -3,6 +3,7 @@ import asyncio
 import aiofiles
 import os
 
+
 async def dowload_html(session, url):
     async with session.get(url, ssl=False) as res:
         filename = f'output/{os.path.basename(url)}.html'
@@ -14,6 +15,7 @@ async def dowload_html(session, url):
                     break
                 await f.write(chunk)
         return await res.release()
+
 
 async def main(url):
     async with aiohttp.ClientSession() as session:

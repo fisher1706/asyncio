@@ -1,7 +1,9 @@
 import socket
 import selectors
 
+
 selector = selectors.DefaultSelector()
+
 
 def server():
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -11,14 +13,16 @@ def server():
 
     selector.register(fileobj=server_socket, events=selectors.EVENT_READ, data=accept_connection)
 
+
 def accept_connection(server_socket):
     client_socket, addr = server_socket.accept()
     print('Connection from ', addr)
 
     selector.register(fileobj=client_socket, events=selectors.EVENT_READ, data=send_message)
 
+
 def send_message(client_socket):
-    print ('Before .recv()')
+    print('Before .recv()')
     request = client_socket.recv(4096)
     if request:
         response = 'Hello world\n'.encode()
@@ -27,9 +31,10 @@ def send_message(client_socket):
         selector.unregister(client_socket)
         client_socket.close()
 
+
 def event_loop():
     while True:
-        events = selector.select()  #(key, events)
+        events = selector.select()  # (key, events)
 
         # SelectorKey
         # fileobj
@@ -41,12 +46,6 @@ def event_loop():
             callback(key.fileobj)
 
 
-
-
 if __name__ == '__main__':
     server()
     event_loop()
-
-
-
-

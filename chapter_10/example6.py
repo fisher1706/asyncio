@@ -3,6 +3,7 @@ import asyncio
 from concurrent.futures import ProcessPoolExecutor
 from timeit import default_timer as timer
 
+
 def is_prime(x):
     print('Processing %i...' % x)
 
@@ -23,6 +24,7 @@ def is_prime(x):
                 return
 
         print('%i is a prime number.' % x)
+
 
 async def main():
     task1 = loop.run_in_executor(executor, is_prime, 9637529763296797)
@@ -47,3 +49,4 @@ if __name__ == '__main__':
 
     finally:
         loop.close()
+        

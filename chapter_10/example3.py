@@ -1,6 +1,7 @@
 import asyncio
 from math import sqrt
 
+
 async def is_prime(x):
     print('Processing %i...' % x)
 
@@ -23,6 +24,7 @@ async def is_prime(x):
                 await asyncio.sleep(0)
 
         print('%i is a prime number.' % x)
+
 
 async def main():
     task1 = loop.create_task(is_prime(9637529763296797))

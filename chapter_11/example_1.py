@@ -1,6 +1,10 @@
 import asyncio
 
+
 class EchoServerProtocol(asyncio.Protocol):
+    def __init__(self):
+        self.transport = None
+
     def connection_made(self, transport):
         peername = transport.get_extra_info('peername')
         print('Connection from {}'.format(peername))
@@ -9,6 +13,7 @@ class EchoServerProtocol(asyncio.Protocol):
     def data_received(self, data):
         message = data.decode()
         print('Data received: {!r}'.format(message))
+
 
 loop = asyncio.get_event_loop()
 coro = loop.create_server(EchoServerProtocol, '127.0.0.1', 8888)

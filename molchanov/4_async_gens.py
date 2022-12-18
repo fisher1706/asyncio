@@ -1,9 +1,11 @@
 import socket
 from select import select
 
+
 tasks = []
 to_read = {}
 to_write = {}
+
 
 def server():
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -16,6 +18,7 @@ def server():
         client_socket, addr = server_socket.accept() # read
         print('Connection from ', addr, 'client_socket', client_socket)
         tasks.append(client(client_socket))
+
 
 def client(client_socket):
     while True:
@@ -30,6 +33,7 @@ def client(client_socket):
             client_socket.send(response) # write
 
     client_socket.close()
+
 
 def event_loop():
     while any([tasks, to_read, to_write]):
@@ -58,6 +62,7 @@ def event_loop():
                 to_write[sock] = task
         except StopIteration:
             print('Done!')
+
 
 tasks.append(server())
 event_loop()
