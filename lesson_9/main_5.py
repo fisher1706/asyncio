@@ -14,6 +14,7 @@ def doubler_server(port=8001):
             t = Thread(target=handle_connection, args=(conn, addr))
             t.start()
 
+
 def handle_connection(conn, addr):
     print("Connected by", addr)
     with conn:
@@ -26,6 +27,7 @@ def handle_connection(conn, addr):
             print(n, res)
             conn.send(res)
     print("Disconnected by", addr)
+
 
 def doubler_client(port=8001):
     with socket.create_connection(("127.0.0.1", port)) as s:

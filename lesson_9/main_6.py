@@ -37,8 +37,6 @@ def doubler_server(port=8002):
                         assert False, op
 
 
-
-
 def doubler_client(port=8002):
     with socket.create_connection(("127.0.0.1", port)) as s:
         f = s.makefile(mode="rw", buffering=1, newline="\n")

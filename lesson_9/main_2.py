@@ -3,14 +3,18 @@ import random
 import heapq
 from enum import Enum, auto
 
+
 def random_delay():
     return random.random() * 5
+
 
 def random_countdown():
     return random.randrange(5)
 
+
 def sleep(delay):
     yield Op.WAIT, delay
+
 
 def launch_rocket(delay, coundown):
     # block WAITING
@@ -22,12 +26,15 @@ def launch_rocket(delay, coundown):
     # block LAUNCHING
     print("Rocket launched!")
 
+
 class Op(Enum):
     WAIT = auto()
     STOP = auto()
 
+
 def now():
     return time.time()
+
 
 def run_fsm(rockets):
     start = now()
@@ -50,6 +57,7 @@ def run_fsm(rockets):
             heapq.heappush(work, (step_at, id, launch))
         else:
             assert False, op
+
 
 def rockets():
     N = 10_000
